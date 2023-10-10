@@ -59,5 +59,8 @@ Captures information across the electromagnetic spectrum, giving a spectrum for 
 - Root Mean Square Error [RMSE](https://www.statology.org/how-to-interpret-rmse/)
 - Spectral Angle Mapper [SAM](https://archive.org/details/NASA_NTRS_Archive_19940012238)
 - Relative Dimensionless Global Error [ERGAS](https://www.irjet.net/archives/V7/i6/IRJET-V7I6199.pdf)
+- Overall Accuracy [OA]()
+- Average Accuracy [AA]()
+- Kappa Coefficient [K]()
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RobWilliamson15.HyperspectralImageResearch&theme=radical)
